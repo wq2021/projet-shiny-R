@@ -2,7 +2,7 @@
 
 - Lien du projet : https://aminebenali.shinyapps.io/projet/
 
-- [Base de données à charger](Base de données.csv)
+- [Base de données à charger](data.csv)
 
 - Travail réalisé : 
   1. Visualisation unidimensionnelle sur les variables dans la base de données (boîte à moustache, table de caractéristique, histogramme de densité, diagramme en colonnes, diagramme circulaire) et donner une interprétation dessus.
